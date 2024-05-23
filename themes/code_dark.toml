@@ -1,0 +1,14 @@
+# Colors (Dark plus)
+[colors.primary]
+  background= '#1E1E1E'
+  foreground= '#D4D4D4'
+
+[colors.normal]
+  black=   '#1E1E1E'
+  red=     '#F44747'
+  green=   '#608B4E'
+  yellow=  '#D7BA7D'
+  blue=    '#569CD6'
+  magenta= '#C586C0'
+  cyan=    '#9CDCFE'
+  white=   '#D4D4D4'
